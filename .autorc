@@ -1,0 +1,11 @@
+{
+  "plugins": [
+    "git-tag",
+    "all-contributors",
+    "first-time-contributor",
+    "released"
+  ],
+  "owner": "chiho13",
+  "repo": "container-w1ebhdu",
+  "name": "chiho13",
+}
